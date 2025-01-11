@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 92d2d5295f7e2480a81de9f4c5a1b645
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Player.distr_cell.001
+    100004: Player.distr_cell.002
+    100006: Player.distr_cell.003
+    100008: Player.distr_cell.004
+    100010: Player.distr_cell.005
+    100012: Player.distr_cell.006
+    100014: Player.distr_cell.007
+    100016: Player.distr_cell.008
+    100018: Player.distr_cell.009
+    100020: Player.distr_cell.010
+    100022: Player.distr_cell.011
+    100024: Player.distr_cell.012
+    100026: Player.distr_cell.013
+    100028: Player.distr_cell.014
+    100030: Player.distr_cell.015
+    100032: Player.distr_cell.016
+    100034: Player.distr_cell.017
+    100036: Player.distr_cell.018
+    100038: Player.distr_cell.019
+    100040: Player.distr_cell.020
+    400000: //RootNode
+    400002: Player.distr_cell.001
+    400004: Player.distr_cell.002
+    400006: Player.distr_cell.003
+    400008: Player.distr_cell.004
+    400010: Player.distr_cell.005
+    400012: Player.distr_cell.006
+    400014: Player.distr_cell.007
+    400016: Player.distr_cell.008
+    400018: Player.distr_cell.009
+    400020: Player.distr_cell.010
+    400022: Player.distr_cell.011
+    400024: Player.distr_cell.012
+    400026: Player.distr_cell.013
+    400028: Player.distr_cell.014
+    400030: Player.distr_cell.015
+    400032: Player.distr_cell.016
+    400034: Player.distr_cell.017
+    400036: Player.distr_cell.018
+    400038: Player.distr_cell.019
+    400040: Player.distr_cell.020
+    2100000: Player
+    2100002: Material
+    2300000: Player.distr_cell.001
+    2300002: Player.distr_cell.002
+    2300004: Player.distr_cell.003
+    2300006: Player.distr_cell.004
+    2300008: Player.distr_cell.005
+    2300010: Player.distr_cell.006
+    2300012: Player.distr_cell.007
+    2300014: Player.distr_cell.008
+    2300016: Player.distr_cell.009
+    2300018: Player.distr_cell.010
+    2300020: Player.distr_cell.011
+    2300022: Player.distr_cell.012
+    2300024: Player.distr_cell.013
+    2300026: Player.distr_cell.014
+    2300028: Player.distr_cell.015
+    2300030: Player.distr_cell.016
+    2300032: Player.distr_cell.017
+    2300034: Player.distr_cell.018
+    2300036: Player.distr_cell.019
+    2300038: Player.distr_cell.020
+    3300000: Player.distr_cell.001
+    3300002: Player.distr_cell.002
+    3300004: Player.distr_cell.003
+    3300006: Player.distr_cell.004
+    3300008: Player.distr_cell.005
+    3300010: Player.distr_cell.006
+    3300012: Player.distr_cell.007
+    3300014: Player.distr_cell.008
+    3300016: Player.distr_cell.009
+    3300018: Player.distr_cell.010
+    3300020: Player.distr_cell.011
+    3300022: Player.distr_cell.012
+    3300024: Player.distr_cell.013
+    3300026: Player.distr_cell.014
+    3300028: Player.distr_cell.015
+    3300030: Player.distr_cell.016
+    3300032: Player.distr_cell.017
+    3300034: Player.distr_cell.018
+    3300036: Player.distr_cell.019
+    3300038: Player.distr_cell.020
+    4300000: Player.distr_cell.001
+    4300002: Player.distr_cell.002
+    4300004: Player.distr_cell.003
+    4300006: Player.distr_cell.004
+    4300008: Player.distr_cell.005
+    4300010: Player.distr_cell.006
+    4300012: Player.distr_cell.007
+    4300014: Player.distr_cell.008
+    4300016: Player.distr_cell.009
+    4300018: Player.distr_cell.010
+    4300020: Player.distr_cell.011
+    4300022: Player.distr_cell.012
+    4300024: Player.distr_cell.013
+    4300026: Player.distr_cell.014
+    4300028: Player.distr_cell.015
+    4300030: Player.distr_cell.016
+    4300032: Player.distr_cell.017
+    4300034: Player.distr_cell.018
+    4300036: Player.distr_cell.019
+    4300038: Player.distr_cell.020
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
